@@ -8,21 +8,21 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// Configure the database connection
-var usePostgreSQL = builder.Configuration.GetValue<bool>("UsePostgreSQL", true);
+// Add CORS
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+   });
 
-if (usePostgreSQL)
-{
-    var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
-    builder.Services.AddDbContext<BooksStoreContext>(options =>
-        options.UseNpgsql(connectionString));
-}
-else
-{
-    var sqliteConnectionString = builder.Configuration.GetConnectionString("SqliteConnection");
-    builder.Services.AddDbContext<BooksStoreContext>(options =>
-        options.UseSqlite(sqliteConnectionString));
-}
+// Always use PostgreSQL
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<BooksStoreContext>(options =>
+    options.UseNpgsql(connectionString));
 
 var app = builder.Build();
 
@@ -50,6 +50,10 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+// Use CORS
+app.UseCors();
+
 app.UseAuthorization();
 app.MapControllers();
 

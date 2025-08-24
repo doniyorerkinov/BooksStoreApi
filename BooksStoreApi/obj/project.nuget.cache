@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9K/fOh0lRuw=",
+  "dgSpecHash": "FINPzSqHzmU=",
   "success": true,
-  "projectFilePath": "c:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\BooksStoreApi.csproj",
+  "projectFilePath": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\BooksStoreApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alisher\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Alisher\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.22\\microsoft.data.sqlite.core.6.0.22.nupkg.sha512",

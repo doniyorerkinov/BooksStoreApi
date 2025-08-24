@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\BooksStoreApi.csproj": {}
+    "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\BooksStoreApi.csproj": {}
   },
   "projects": {
-    "c:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\BooksStoreApi.csproj": {
+    "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\BooksStoreApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\BooksStoreApi.csproj",
+        "projectUniqueName": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\BooksStoreApi.csproj",
         "projectName": "BooksStoreApi",
-        "projectPath": "c:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\BooksStoreApi.csproj",
+        "projectPath": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\BooksStoreApi.csproj",
         "packagesPath": "C:\\Users\\Alisher\\.nuget\\packages\\",
-        "outputPath": "c:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\obj\\",
+        "outputPath": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

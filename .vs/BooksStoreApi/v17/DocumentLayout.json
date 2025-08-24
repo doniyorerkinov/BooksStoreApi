@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|c:\\111doniyor\\c_sharp\\booksstoreapi\\booksstoreapi\\migrations\\20250810145753_authorbookremoved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|solutionrelative:booksstoreapi\\migrations\\20250810145753_authorbookremoved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|c:\\111doniyor\\c_sharp\\booksstoreapi\\booksstoreapi\\controllers\\categorycantroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|solutionrelative:booksstoreapi\\controllers\\categorycantroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|c:\\111doniyor\\c_sharp\\booksstoreapi\\booksstoreapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|solutionrelative:booksstoreapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|c:\\111doniyor\\c_sharp\\booksstoreapi\\booksstoreapi\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|solutionrelative:booksstoreapi\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|c:\\111doniyor\\c_sharp\\booksstoreapi\\booksstoreapi\\models\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|solutionrelative:booksstoreapi\\models\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|c:\\111doniyor\\c_sharp\\booksstoreapi\\booksstoreapi\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|solutionrelative:booksstoreapi\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|c:\\111doniyor\\c_sharp\\booksstoreapi\\booksstoreapi\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|solutionrelative:booksstoreapi\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|c:\\111doniyor\\c_sharp\\booksstoreapi\\booksstoreapi\\data\\booksstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|solutionrelative:booksstoreapi\\data\\booksstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|c:\\111doniyor\\c_sharp\\booksstoreapi\\booksstoreapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|solutionrelative:booksstoreapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|c:\\111doniyor\\c_sharp\\booksstoreapi\\booksstoreapi\\data\\booksstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|solutionrelative:booksstoreapi\\data\\booksstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|c:\\111doniyor\\c_sharp\\booksstoreapi\\booksstoreapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|solutionrelative:booksstoreapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|c:\\111doniyor\\c_sharp\\booksstoreapi\\booksstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FFC206-E048-42F7-B4E6-BF0F250337A4}|BooksStoreApi\\BooksStoreApi.csproj|solutionrelative:booksstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +51,119 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250810145753_AuthorBookRemoved.cs",
-              "DocumentMoniker": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Migrations\\20250810145753_AuthorBookRemoved.cs",
-              "RelativeDocumentMoniker": "BooksStoreApi\\Migrations\\20250810145753_AuthorBookRemoved.cs",
-              "ToolTip": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Migrations\\20250810145753_AuthorBookRemoved.cs",
-              "RelativeToolTip": "BooksStoreApi\\Migrations\\20250810145753_AuthorBookRemoved.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CategoryCantroller.cs",
+              "DocumentMoniker": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Controllers\\CategoryCantroller.cs",
+              "RelativeDocumentMoniker": "BooksStoreApi\\Controllers\\CategoryCantroller.cs",
+              "ToolTip": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Controllers\\CategoryCantroller.cs",
+              "RelativeToolTip": "BooksStoreApi\\Controllers\\CategoryCantroller.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T14:57:53.752Z",
+              "WhenOpened": "2025-08-20T12:09:22.382Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Models\\BookCategory.cs",
+              "RelativeDocumentMoniker": "BooksStoreApi\\Models\\BookCategory.cs",
+              "ToolTip": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Models\\BookCategory.cs",
+              "RelativeToolTip": "BooksStoreApi\\Models\\BookCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T12:04:54.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Author.cs",
               "DocumentMoniker": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Models\\Author.cs",
               "RelativeDocumentMoniker": "BooksStoreApi\\Models\\Author.cs",
               "ToolTip": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Models\\Author.cs",
               "RelativeToolTip": "BooksStoreApi\\Models\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T14:57:20.52Z",
+              "WhenOpened": "2025-08-20T11:45:11.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AuthorsController.cs",
-              "DocumentMoniker": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Controllers\\AuthorsController.cs",
-              "RelativeDocumentMoniker": "BooksStoreApi\\Controllers\\AuthorsController.cs",
-              "ToolTip": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Controllers\\AuthorsController.cs",
-              "RelativeToolTip": "BooksStoreApi\\Controllers\\AuthorsController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAADwvyMAAAAZAAAAAAAAAA==",
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Models\\Language.cs",
+              "RelativeDocumentMoniker": "BooksStoreApi\\Models\\Language.cs",
+              "ToolTip": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Models\\Language.cs",
+              "RelativeToolTip": "BooksStoreApi\\Models\\Language.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T14:46:09.088Z",
+              "WhenOpened": "2025-08-20T11:51:16.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "BooksStoreApi\\Models\\Library.cs",
+              "ToolTip": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Models\\Library.cs",
+              "RelativeToolTip": "BooksStoreApi\\Models\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:51:16.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BooksStoreContext.cs",
               "DocumentMoniker": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Data\\BooksStoreContext.cs",
               "RelativeDocumentMoniker": "BooksStoreApi\\Data\\BooksStoreContext.cs",
               "ToolTip": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Data\\BooksStoreContext.cs",
               "RelativeToolTip": "BooksStoreApi\\Data\\BooksStoreContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T14:50:14.112Z",
+              "WhenOpened": "2025-08-20T11:47:45.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "BooksStoreApi\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "BooksStoreApi\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwHIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:45:28.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "BooksStoreApi\\Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "BooksStoreApi\\Controllers\\LibraryController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:34:00.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Program.cs",
+              "RelativeDocumentMoniker": "BooksStoreApi\\Program.cs",
+              "ToolTip": "C:\\111Doniyor\\C_sharp\\BooksStoreApi\\BooksStoreApi\\Program.cs",
+              "RelativeToolTip": "BooksStoreApi\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:29:15.448Z",
               "EditorCaption": ""
             }
           ]

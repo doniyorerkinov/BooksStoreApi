@@ -111,6 +111,10 @@ namespace BooksStoreApi.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("Code")
+                        .IsRequired()
+                        .HasColumnType("text");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("text");
@@ -150,19 +154,19 @@ namespace BooksStoreApi.Migrations
                         .IsRequired();
 
                     b.HasOne("BooksStoreApi.Models.BookCategory", "BookCategory")
-                        .WithMany("Books")
+                        .WithMany()
                         .HasForeignKey("BookCategoryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("BooksStoreApi.Models.Language", "Language")
-                        .WithMany("Books")
+                        .WithMany()
                         .HasForeignKey("LanguageId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("BooksStoreApi.Models.Library", "Library")
-                        .WithMany("Books")
+                        .WithMany()
                         .HasForeignKey("LibraryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -174,21 +178,6 @@ namespace BooksStoreApi.Migrations
                     b.Navigation("Language");
 
                     b.Navigation("Library");
-                });
-
-            modelBuilder.Entity("BooksStoreApi.Models.BookCategory", b =>
-                {
-                    b.Navigation("Books");
-                });
-
-            modelBuilder.Entity("BooksStoreApi.Models.Language", b =>
-                {
-                    b.Navigation("Books");
-                });
-
-            modelBuilder.Entity("BooksStoreApi.Models.Library", b =>
-                {
-                    b.Navigation("Books");
                 });
 #pragma warning restore 612, 618
         }
